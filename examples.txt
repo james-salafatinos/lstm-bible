@@ -1,0 +1,827 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"3:14 but continue thou in the things which thou hast"
+3:14 but continue thou in the things which thou hast 
+ the 
+ of the and of the 
+ and of the 
+ of the and and the lord and the 
+ of the 
+ of the 
+ of the 
+ of the 
+ of the and of the 
+ and and the 
+ of the and and the 
+
+----- Diversity:0.4
+----- Generating with seed:
+"3:14 but continue thou in the things which thou hast"
+3:14 but continue thou in the things which thou hast 
+ the 
+ and of the of the 
+ man, of the 
+ of the and of the 
+ and shall i be the 
+ of the 
+ 
+ of the and and the and and the 
+ of the 
+ of the of of the 
+ of the and
+----- Diversity:0.5
+----- Generating with seed:
+"3:14 but continue thou in the things which thou hast"
+3:14 but continue thou in the things which thou hast shall 
+ 
+ have and the not of the 
+ of the to king of the of and the 
+ and of the 
+ that of the and of the 
+ and and the 
+ of the over of the sea. 
+ 
+ and which the lord the lord of
+----- Diversity:0.6
+----- Generating with seed:
+"3:14 but continue thou in the things which thou hast"
+3:14 but continue thou in the things which thou hast 
+ 
+ and my and his my and the son of 
+ the and and a sent and his and 
+ evil and the be and and the and in i came 
+ thy for and all i the burnt 
+ of the lord of the lord of 
+ 
+
+----- Diversity:0.7
+----- Generating with seed:
+"3:14 but continue thou in the things which thou hast"
+3:14 but continue thou in the things which thou hast 
+ i and 
+ up: and and unto the day, israel. 
+ 
+ 
+ of the 
+ of what known the performed of he 
+ men me. and 
+ such and the son of 
+ the deal set of the 9:1 of the 
+ of of and my eat to
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"on the solemn feasts of the 
+ lord our god."
+on the solemn feasts of the 
+ lord our god. 
+ 
+ 6:27 and the lord of the lord of the lord 
+ of the lord of the lord of the lord of the 
+ 
+ of the lord of the lord of the lord of the 
+ 
+ of the lord of the lord of the lord of the
+----- Diversity:0.4
+----- Generating with seed:
+"on the solemn feasts of the 
+ lord our god."
+on the solemn feasts of the 
+ lord our god. 
+ 
+ 7:4 and the lord of the lord of the lord of the 
+ land of the lord of the children of the lord, and the lord 
+ of the lord that the lord shall be you in the 
+ and he shall be him and in the children
+----- Diversity:0.5
+----- Generating with seed:
+"on the solemn feasts of the 
+ lord our god."
+on the solemn feasts of the 
+ lord our god. 
+ 
+ 19:20 and when the lord said unto the lord shall be me and 
+ to the people and the lord of the lord. 
+ 
+ 9:1 the people of the lord was these when were 
+ and they shall be him with the hand of the 
+ land
+----- Diversity:0.6
+----- Generating with seed:
+"on the solemn feasts of the 
+ lord our god."
+on the solemn feasts of the 
+ lord our god. 
+ 
+ 5:8 and the lord said unto unto your and are in the 
+ part of the children of egypt, and the lord of the 
+ 
+ of god hath moses said unto them, thou shalt not be 
+ of the king of israel, and the lord the lord
+----- Diversity:0.7
+----- Generating with seed:
+"on the solemn feasts of the 
+ lord our god."
+on the solemn feasts of the 
+ lord our god. 
+ 
+ 24:13 son of the lord of the hand of the 
+ land of the lord, shall be poured 
+ them. 
+ 
+ 4:13 and he heard upon the thing of that when ye is 
+ of the children of israel my lord hath said unto him, and i
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"stranger, nor the poor; 
+ and let none of you"
+stranger, nor the poor; 
+ and let none of you in the hand of the children of israel 
+ the lord of the lord hath the king of israel 
+ and the king of israel was with the king of israel 
+ and the king of israel shall be a man of the 
+ house of the lord, and the
+----- Diversity:0.4
+----- Generating with seed:
+"stranger, nor the poor; 
+ and let none of you"
+stranger, nor the poor; 
+ and let none of you that ye may be a 
+ man of the lord, and the king of the lord 
+ the lord hath shewed to the people to the son of 
+ the children of israel were of the son of israel. 
+ 
+ 20:5 and the king of israel came to pass,
+----- Diversity:0.5
+----- Generating with seed:
+"stranger, nor the poor; 
+ and let none of you"
+stranger, nor the poor; 
+ and let none of you and give unto thee to his 
+ father, and they shall be to be thy hand to 
+ and to do all the midst of the children of 
+ israel, and all the lord said unto him, and i will not 
+ i will judge thee. 
+ 
+ 16:19 for
+----- Diversity:0.6
+----- Generating with seed:
+"stranger, nor the poor; 
+ and let none of you"
+stranger, nor the poor; 
+ and let none of you that he might eat upon the 
+ year, of the noise of the field. 
+ 
+ 7:19 the king of the king shall be at his 
+ servants and said unto them, i will give the holy 
+ places to the ark of the children of israel, and went 
+
+----- Diversity:0.7
+----- Generating with seed:
+"stranger, nor the poor; 
+ and let none of you"
+stranger, nor the poor; 
+ and let none of you that were in all the east pharaoh unto the house of the lord, and the king of the 
+ tabernacle of the lord, and the king of the lord that he shall say unto me, 
+ every man of them on the house of the children of 
+ israel, and
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"see: 11:5 the blind receive their sight, and the lame"
+see: 11:5 the blind receive their sight, and the lame and the 
+ were of the children of israel came to pass in the 
+ year of the son of the son of man of the 
+ son of the king of babylon was a burnt offering 
+ of the children of israel and the son of man 
+ came
+----- Diversity:0.4
+----- Generating with seed:
+"see: 11:5 the blind receive their sight, and the lame"
+see: 11:5 the blind receive their sight, and the lame 
+ and the people of the lord. 
+ 
+ 10:16 and the lord came to pass, when he had made a man of the 
+ children of israel, and the lord had brought unto them in the hand of 
+ the egyptians to the king of israel to the son
+----- Diversity:0.5
+----- Generating with seed:
+"see: 11:5 the blind receive their sight, and the lame"
+see: 11:5 the blind receive their sight, and the lame 
+ and the priest shall be a man to the head of the 
+ and the king of babylon, and the people shall be 
+ for the children of israel shall bring them to the 
+ son of the children of israel shall be a man 
+ of the lord,
+----- Diversity:0.6
+----- Generating with seed:
+"see: 11:5 the blind receive their sight, and the lame"
+see: 11:5 the blind receive their sight, and the lame 
+ and the priest shall be the priest of his children 
+ iniquity. 
+ 
+ 7:1 when the egyptians did man to divide the king's 
+ substance for the lord have seen them to the lord 
+ of israel, that is come to pass, saith the lord thy god liveth,
+----- Diversity:0.7
+----- Generating with seed:
+"see: 11:5 the blind receive their sight, and the lame"
+see: 11:5 the blind receive their sight, and the lame 
+ and his burnt and in the face thereof. 
+ 
+ 19:12 and the angel of the servant was come in their place; and he 
+ shall stand twelve away by the whole hand of the 
+ children of israel, and said unto them in this day, 
+ and as
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"and in the day that he goeth into the sanctuary,"
+and in the day that he goeth into the sanctuary, and the 
+ children of israel were with the people of the children of 
+ israel, and the children of israel had made the king 
+ of babylon, and the children of israel were with the 
+ children of israel, and the children of israel were numbered of 
+ the
+----- Diversity:0.4
+----- Generating with seed:
+"and in the day that he goeth into the sanctuary,"
+and in the day that he goeth into the sanctuary, and there was a 
+ man of the house of the lord, and the levites 
+ that were in the land of egypt, and the children of israel 
+ reigned over the children of israel, and the children of 
+ israel came to pass in the city of the house
+----- Diversity:0.5
+----- Generating with seed:
+"and in the day that he goeth into the sanctuary,"
+and in the day that he goeth into the sanctuary, and the children of israel 
+ the earth shall be filled for the sword of the 
+ people. 
+ 
+ 24:18 and the lord came unto the people that were had 
+ the lord had brought him into the house of the lord 
+ which was in the house of
+----- Diversity:0.6
+----- Generating with seed:
+"and in the day that he goeth into the sanctuary,"
+and in the day that he goeth into the sanctuary, and 
+ stood and his hand to the children of israel, and the children of 
+ israel carried out of the house of the lord the lord 
+ god of hosts: and he gave unto the children of israel, 
+ saying, thus saith the lord god; i have seen the
+----- Diversity:0.7
+----- Generating with seed:
+"and in the day that he goeth into the sanctuary,"
+and in the day that he goeth into the sanctuary, and the cloud and the 
+ tabernacle of the congregation. 
+ 
+ 20:2 and the lord passed over with god: for they knew not 
+ his words, saying, ye were of the children of israel, 
+ and the people of them shall be reckoned in the 
+ book of the
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"but his brethren 
+ had not many children, neither did"
+but his brethren 
+ had not many children, neither did they were with the 
+ inhabitants of the house of the lord. 
+ 
+ 1:3 and the lord spake unto moses, saying, behold, i have 
+ commanded thee to the children of israel, and to the 
+ people with the children of israel, and the children of 
+ israel were
+----- Diversity:0.4
+----- Generating with seed:
+"but his brethren 
+ had not many children, neither did"
+but his brethren 
+ had not many children, neither did the gods of the 
+ lord of the children of israel, and the king of 
+ assyria said unto him, i am the lord your god, and i will 
+ send and my people and the children of israel to 
+ the king of israel to the king of judah,
+----- Diversity:0.5
+----- Generating with seed:
+"but his brethren 
+ had not many children, neither did"
+but his brethren 
+ had not many children, neither did they shall be like 
+ unto the king's house, and said unto him, thus saith the lord god; i will 
+ deliver thee to thy adversaries which i have dealt against thee, 
+ then will i say unto you, and i will have my servant in the land of my
+----- Diversity:0.6
+----- Generating with seed:
+"but his brethren 
+ had not many children, neither did"
+but his brethren 
+ had not many children, neither did they gathered 
+ at the fourteenth day of the month, that were not of the sons of 
+ the children of israel from the congregation of israel, and 
+ came to pass after the seventh year of the gate. 
+ 
+ 12:15 and the children of israel saw the third
+----- Diversity:0.7
+----- Generating with seed:
+"but his brethren 
+ had not many children, neither did"
+but his brethren 
+ had not many children, neither did he were with him 
+ with him; and he hath done a man: and he shall die and the 
+ book of the chronicles of the kings of judah? 
+ 8:10 and the in shall the sun was on the altar of his god. 
+ 
+ 1:3 moreover the lord
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"on the seventh day of the month, which is 
+"
+on the seventh day of the month, which is 
+ the house of the lord shall be before the lord, and the 
+ inhabitants of the land shall be cut off from the earth. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1:1 the apostle of the lord, and the lord of hosts
+----- Diversity:0.4
+----- Generating with seed:
+"on the seventh day of the month, which is 
+"
+on the seventh day of the month, which is 
+ the gate of the north are the cities of the house of the lord of hosts, 
+ the children of israel to the children of israel to 
+ the children of israel to be the house of the lord 
+ of hosts in the land of egypt, and shall the
+----- Diversity:0.5
+----- Generating with seed:
+"on the seventh day of the month, which is 
+"
+on the seventh day of the month, which is 
+ the house of the lord came to the king, and said unto him, 
+ i have not known my children, and i will send 
+ your neighbour, and they shall see the land of the 
+ tabernacle of the congregation, and the priest shall burn the 
+ high and the
+----- Diversity:0.6
+----- Generating with seed:
+"on the seventh day of the month, which is 
+"
+on the seventh day of the month, which is 
+ the sea. 
+ 
+ 18:21 and the children of israel went the ass, and put it in the 
+ morning, and the people that were with him in the 
+ country. 
+ 
+ 12:10 and the woman came to pass in the morning, that the lord had 
+ commanded to
+----- Diversity:0.7
+----- Generating with seed:
+"on the seventh day of the month, which is 
+"
+on the seventh day of the month, which is 
+ by the side of the amorites, the king of israel, 
+ and the lord spake unto moses, saying, so to the children of 
+ israel, to fight against the children of israel, and to 
+ be the ark of the lord. 
+ 
+ 2:7 and it was the altar, to
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"said, behold, i have given you every herb bearing seed,"
+said, behold, i have given you every herb bearing seed, 
+ and of the earth, and to be the fat of the 
+ sea, and the ninth year of the reign of the reign of darius king of persia, 
+ judah, and the king of israel the son of the king of 
+ bashan, and the children of israel and
+----- Diversity:0.4
+----- Generating with seed:
+"said, behold, i have given you every herb bearing seed,"
+said, behold, i have given you every herb bearing seed, 
+ and of the earth. 
+ 
+ 1:10 and they brought them with the people of the children of 
+ israel, and said unto him, i am the lord thy god hath given me to my servant in my 
+ house, and i will shew thee to the king of
+----- Diversity:0.5
+----- Generating with seed:
+"said, behold, i have given you every herb bearing seed,"
+said, behold, i have given you every herb bearing seed, 
+ and of the earth, nor with the blood of the 
+ congregation of the lord thy god of israel. 
+ 
+ 4:5 then the first woman was the second time, and the priest of the 
+ cloud was a sharp in the seventh year of the tabernacle of the
+----- Diversity:0.6
+----- Generating with seed:
+"said, behold, i have given you every herb bearing seed,"
+said, behold, i have given you every herb bearing seed, 
+ that ye may be in the land which is in the house, even the 
+ noise of the acts of david, and of the people 
+ the house of the lord, and the priests, and the 
+ children of israel called the lord said unto moses, if a man
+----- Diversity:0.7
+----- Generating with seed:
+"said, behold, i have given you every herb bearing seed,"
+said, behold, i have given you every herb bearing seed, 
+ and of the earth: and the lord commanded the people shall 
+ the people for the people. 
+ 
+ 3:20 and he shall make him a ram for a burnt offering. 
+ 
+ 16:19 and the burnt offering was the three talents of gold; and 
+ with the children
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"will go with me. 
+ 
+ 2:24 but i trust"
+will go with me. 
+ 
+ 2:24 but i trust in the lord, and i will not be 
+ blessed. 
+ 
+ 5:20 and when he was come to the chief of the lord, and the 
+ people of the children of israel were as in the 
+ month, that he was made in the city of the 
+ king
+----- Diversity:0.4
+----- Generating with seed:
+"will go with me. 
+ 
+ 2:24 but i trust"
+will go with me. 
+ 
+ 2:24 but i trust in the lord the lord hath spoken unto you, and the words of the 
+ servants of the lord, and the people shall be a 
+ statute for ever. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1:1 he said
+----- Diversity:0.5
+----- Generating with seed:
+"will go with me. 
+ 
+ 2:24 but i trust"
+will go with me. 
+ 
+ 2:24 but i trust in his neighbour, and i will be 
+ with all the people: for i will make you a 
+ land of the lord of hosts, and to israel in the 
+ days of the land of the children of israel, and the 
+ children of israel went out of the
+----- Diversity:0.6
+----- Generating with seed:
+"will go with me. 
+ 
+ 2:24 but i trust"
+will go with me. 
+ 
+ 2:24 but i trust in the lord, and all the words of the congregation, where he had made the house of the lord, and to the people 
+ the land of the amorites, which the son of nebuchadrezzar king 
+ of assyria, and his anger with the right hand is 
+ in the hand
+----- Diversity:0.7
+----- Generating with seed:
+"will go with me. 
+ 
+ 2:24 but i trust"
+will go with me. 
+ 
+ 2:24 but i trust in the lord our god hath given you in all that his 
+ father hath given us the house of the lord, to him 
+ that he had said, and where all the house of israel answered 
+ and said unto them, ye have obeyed the voice of the 
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"
+ face of the lord: for the king of israel"
+
+ face of the lord: for the king of israel shall 
+ be the holy ghost, and he said, that is in 
+ this day in the sight of the lord, and the 
+ people of the children of israel were with the children of 
+ reuben, and to the children of israel, and to the 
+ people of the
+----- Diversity:0.4
+----- Generating with seed:
+"
+ face of the lord: for the king of israel"
+
+ face of the lord: for the king of israel shall 
+ he be filled with the beasts of the earth. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1:1 now in the ninth year of darius the king of the 
+ amorites, which was in the house of the lord, which he was 
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ face of the lord: for the king of israel"
+
+ face of the lord: for the king of israel shall be 
+ not at the pit, and the sword shall be upon 
+ the altar and shall be consumed with the people. 
+ 
+ 2:12 and it shall come to pass, when the children of israel were 
+ assembled together with the ark of the lord, and the 
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ face of the lord: for the king of israel"
+
+ face of the lord: for the king of israel took 
+ the house of the lord, and the people that were in 
+ the villages, that were in their hand; but they were 
+ with the men of the city, and they did that followed 
+ him. 
+ 
+ 3:9 and when it came to pass, when the lord
+----- Diversity:0.7
+----- Generating with seed:
+"
+ face of the lord: for the king of israel"
+
+ face of the lord: for the king of israel went to jerusalem to the place of the 
+ tabernacle of the congregation, and the priest shall bring the blood 
+ and the burnt offering, and the fat that the trees 
+ that is in the side of the sea by the 
+ side of the court that is there
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"and sanctify 
+ them to day and to morrow, and"
+and sanctify 
+ them to day and to morrow, and the people of 
+ the land of egypt. 
+ 
+ 22:1 and the lord spake unto moses, saying, 12:2 speak unto the children of 
+ israel, and said unto them, ye shall not be the son of 
+ man, and the head of the acts of his own 
+ house.
+----- Diversity:0.4
+----- Generating with seed:
+"and sanctify 
+ them to day and to morrow, and"
+and sanctify 
+ them to day and to morrow, and said, i am the 
+ lord of hosts. 
+ 
+ 34:6 and i will give them all the nations and their hand to make them 
+ to go over to the north, and to the door of the 
+ tabernacle of the congregation, and the burnt offering and the 
+
+----- Diversity:0.5
+----- Generating with seed:
+"and sanctify 
+ them to day and to morrow, and"
+and sanctify 
+ them to day and to morrow, and the people that were 
+ numbered were in the first month, and the first month, was the first year of the month, the two captain of the court was 
+ passed from from the gate of the gate of the 
+ north side toward the gate of the children of
+----- Diversity:0.6
+----- Generating with seed:
+"and sanctify 
+ them to day and to morrow, and"
+and sanctify 
+ them to day and to morrow, and the children of 
+ israel were come after these things, they were not found 
+ in their iniquity. 
+ 
+ 12:17 and the lord hath not delivered them into all the hand of the 
+ inhabitants of the earth. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+----- Diversity:0.7
+----- Generating with seed:
+"and sanctify 
+ them to day and to morrow, and"
+and sanctify 
+ them to day and to morrow, and said, i am the lord. 
+ 
+ 2:1 then all the lord came to circumcised against the people. 
+ 
+ 4:4 and the people of the sons of kohath were 
+ eighteen into the house, and there came to answer the name of my people all my 
+ words with
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"the 
+ fruit of the earth, which thou shalt bring"
+the 
+ fruit of the earth, which thou shalt bring forth the 
+ noise of the mountains of the living. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+----- Diversity:0.4
+----- Generating with seed:
+"the 
+ fruit of the earth, which thou shalt bring"
+the 
+ fruit of the earth, which thou shalt bring forth the 
+ ark of the testimony, that he was come to the top of the 
+ house, and the woman of the host of the throne, and the 
+ sitting upon the head of the altar. 
+ 
+ 1:3 and he that he shall give his name unto the
+----- Diversity:0.5
+----- Generating with seed:
+"the 
+ fruit of the earth, which thou shalt bring"
+the 
+ fruit of the earth, which thou shalt bring forth it into the hand of the 
+ congregation, and the spoil of the house of the lord, and 
+ the people brought forth the children of israel to go and to 
+ the amorites, and the high places, even unto the tabernacle 
+ of the congregation, and the sockets
+----- Diversity:0.6
+----- Generating with seed:
+"the 
+ fruit of the earth, which thou shalt bring"
+the 
+ fruit of the earth, which thou shalt bring forth from the hand of korah, there 
+ continued many as the king's house, and the king of 
+ assyria to the people of the house of the lord, and 
+ their substance and their cities. 
+ 
+ 13:30 and they were numbered of the house and the 
+ priests
+----- Diversity:0.7
+----- Generating with seed:
+"the 
+ fruit of the earth, which thou shalt bring"
+the 
+ fruit of the earth, which thou shalt bring forth the 
+ dust of the sea, such as a man should do 
+ the breaches of the eyes of the covenant, and they 
+ be with you: and to the children of israel to me in 
+ the sea; and the king's servants had not in the glory of
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"lo, he doth send out his voice, and that a"
+lo, he doth send out his voice, and that a 
+ man shall be with his own land. 
+ 
+ and the days of the first year of the reign of darius the son of 
+ josiah king over the amorites, and the house of the lord, and the 
+ house of the lord. 
+ 
+ 7:4 then came to
+----- Diversity:0.4
+----- Generating with seed:
+"lo, he doth send out his voice, and that a"
+lo, he doth send out his voice, and that a 
+ man's hand shall be like to him that is the 
+ everlasting life with him. 
+ 
+ 1:3 and joshua said unto the children of israel, ye are the levites that 
+ were in the land of the tribe of the children of gad, 
+ and joshua of the
+----- Diversity:0.5
+----- Generating with seed:
+"lo, he doth send out his voice, and that a"
+lo, he doth send out his voice, and that a man should be 
+ carried away captive to babylon; and they shall come to 
+ the land of egypt, and to be gathered together, and 
+ separated themselves together, and they said, hear ye the word of the lord, i have not 
+ the lord god of israel, for my
+----- Diversity:0.6
+----- Generating with seed:
+"lo, he doth send out his voice, and that a"
+lo, he doth send out his voice, and that a 
+ man should deliver him from speaking to the hand of his 
+ ways, and they that believeth on the power of the 
+ heathen are come out of the hand of the lord, and i will make him 
+ void to the wicked with his own heart, and to
+----- Diversity:0.7
+----- Generating with seed:
+"lo, he doth send out his voice, and that a"
+lo, he doth send out his voice, and that a little ones shall ye know 
+ every one that hath the other are, which hath the first 
+ sea, and the doors of the house of the lord, and the bread of the house, shall be 
+ saved. 
+ 
+ 15:1 but these are the generations of solomon, even unto
+================================================================================
